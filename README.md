@@ -1,6 +1,8 @@
-# Conservative Neural CBFs (CCBF)
+# Learning Conservative Neural Control Barrier Functions from Offline Data
 
 Project page for [arXiv:2505.00908](https://arxiv.org/abs/2505.00908).
+
+Live site: https://trustworthyautonomy.github.io/CCBF/
 
 Code: https://github.com/tabz23/CCBF
 
